@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments love and loyalty to the Kings Most Excellent Majestie. Wherein is proved, that the Parliaments discontent, and the Kings disaffection toward them, is the effect of evill councellors, that seeke the ruine and destruction of the kingdom. With some additionall reasons, declaring what hath caused this separation of the Kings Majestie from London, and to raise arms at York. With the occasion of these distracted times, some standing for the King, and some for the Parliament, as if they desired civill wars as the malignant party doth.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91455</idno><idno type="EEBO-CITATION">99871610</idno>
+  <idno type="VID">124022</idno>
+  <idno type="EEBO-PROQUEST">2240940653</idno>
+  
+            <idno type="STC">Wing P516</idno>
+            <idno type="STC">Thomason E114_37</idno>
+            <idno type="STC">ESTC R22144</idno>
+            <idno type="PROQUEST">99871610</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871610e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124022)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E114[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments love and loyalty to the Kings Most Excellent Majestie. Wherein is proved, that the Parliaments discontent, and the Kings disaffection toward them, is the effect of evill councellors, that seeke the ruine and destruction of the kingdom. With some additionall reasons, declaring what hath caused this separation of the Kings Majestie from London, and to raise arms at York. With the occasion of these distracted times, some standing for the King, and some for the Parliament, as if they desired civill wars as the malignant party doth.</title>
+               </titleStmt>
+               <extent>8 p. :   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cook,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 30. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124022:1"/>
+            <p>THE PARLIAMENTS Love and Loyalty TO THE KINGS Most Excellent Majestie.</p>
+            <p>Wherein is proved, that the Par<g ref="char:EOLhyphen"/>liaments difcontent, and the Kings disaffection to<g ref="char:EOLhyphen"/>wards them, is the effect of Evill Councellors, that seeke the ruine and destruction of the Kingdom.</p>
+            <p>With some Additionall Reasons, Declaring what hath caused This Seperation of the Kings Majestie from <hi>London,</hi> And to raise Arms at <hi>York.</hi>
+            </p>
+            <p>WITH The occasion of these distracted Times, some standing for the King, and some for the Parlia<g ref="char:EOLhyphen"/>ment, as if they desired Civill Wars as the Malig<g ref="char:EOLhyphen"/>nant party doth.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Cook,</hi> August 30. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:124022:2"/>
+            <pb n="3" facs="tcp:124022:2"/>
+            <head>The Parliaments LOVE and LOYALTY TO THE KINGS MAJESTIE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Kings Majestie hath been plea<g ref="char:EOLhyphen"/>sed to imagine and conceive by the insti<g ref="char:EOLhyphen"/>gation of evill effected men, that the Par<g ref="char:EOLhyphen"/>liament endeavours to impaire and give narrower limmits to the Kings Majesties Fame and Honour, and to derogate any thing from the true and Legall Prerogative inherent and essenti<g ref="char:EOLhyphen"/>all in the Kings Person. It may be evidently observed in the many Loving and Loyall Declarations set forth by the Parliament, that they desire nothing more earnestly then to the utmost of their Lives and For<g ref="char:EOLhyphen"/>tunes, to promote the magnificent Honour and Glo<g ref="char:EOLhyphen"/>ry
+<pb n="4" facs="tcp:124022:3"/> of His Majestie, to preserve the Protestant Religi<g ref="char:EOLhyphen"/>on, and to s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it in such a true and upr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> posture of reformation, that the King may still merit as He doth inherit the title of <hi>veri Defensor fidei,</hi> the Defendor of the true fa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h, and His Majestie doth herein <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and comply with His Honourable Parliament, that He will maintaine and defend the true Protestant Religion.</p>
+            <p>Whereas the Parliament knowes there can be no good Religion in such as raise Arms, and disquier the State of their native Soveraigne, contradicting their oath, bond, and obligation of their faith, whereunto they are sworne by their Allegiance, if such Arms and For<g ref="char:EOLhyphen"/>ces be raised against the Kings Majestie, whose Per<g ref="char:EOLhyphen"/>son they ought to defend against all dangers, both For<g ref="char:EOLhyphen"/>raine and Domestick, yet there may be some additio<g ref="char:EOLhyphen"/>nall reasons whereby in case of necessity, when rumors and feares of invading from the Kings party are feared and spread abroad, when there is an oposition, or an Antiparliament, established to contradict the pro<g ref="char:EOLhyphen"/>cedings of the other, when the Libertie and Priviled<g ref="char:EOLhyphen"/>ges of Parliaments, which ought to be preserved en<g ref="char:EOLhyphen"/>tire, are took away, or slighted, not by distinctions, but absolute negations of their fundamentall being, where divers Members of the House of Parliament do ab<g ref="char:EOLhyphen"/>sent themselves, and not return again upon Summons, nor fine imposed on them for their cōtempt and breach of Parliamentary Power, and when they Kings Maje<g ref="char:EOLhyphen"/>stie seduced by evill councellors of the malignant par<g ref="char:EOLhyphen"/>ty, is instigated to raise copious and informidable for<g ref="char:EOLhyphen"/>ces upon groundlesse feares and jealousies, the Parlia<g ref="char:EOLhyphen"/>ment considering those and other pretended reasons,
+<pb n="5" facs="tcp:124022:3"/> and being strong testimoniall witnesses in their consci<g ref="char:EOLhyphen"/>ences of their clear intents and loyall affections to His Majestie cannot chuse but be admonished by the Kings Majesties great preparations, to imagine that when their neighbours house is on fire, their own is in great perill and danger, especially His majestie having of late through the advice of some Incendaries and those that would laugh to see the Cittie of <hi>London</hi> on fire, as they have themselves reported, strongly besieged and environed the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own of <hi>Hull,</hi> entending to take it by starving them out, blocking up the passages for sup<g ref="char:EOLhyphen"/>plying them wlth any relief or sustenance. The Par<g ref="char:EOLhyphen"/>liament therefore and the Citie of <hi>London</hi> concurring in mutuall affection, foreseeing the storms that threat<g ref="char:EOLhyphen"/>ens them, hanging in the Northorn Clouds, do intend to raise forces to deffend the Kings Honour, and the safety of the Parliament which desires no War, but the Peace and happinesse of the Kingdom, the preser<g ref="char:EOLhyphen"/>vation of the Laws in their power and authority, the maintaining of Religion free from superstitious In<g ref="char:EOLhyphen"/>novations, and that no errors of Popery and Arianisme may be imposed upon us, as the Doctrine of the Church; The conservation of the Rights and Liber<g ref="char:EOLhyphen"/>ties of the Subject, so that all true-hearted Subjects cannot chuse but have a sensible feeling of the wrongs, indignities, and affronts, offered by the malignant par<g ref="char:EOLhyphen"/>unto the Parliament; And since they are <hi>Patres Pa<g ref="char:EOLhyphen"/>triae,</hi> the fathers of their Country, the Subjects of <hi>En<g ref="char:EOLhyphen"/>gland</hi> ought like obedient children to maintain their Rights, and be subiect to all their just and legall com<g ref="char:EOLhyphen"/>mands; how unjustly therefore doth that scandalous Declaration and Resolution of the County of <hi>Here<g ref="char:EOLhyphen"/>ford</hi>
+               <pb n="6" facs="tcp:124022:4"/> charge them with ins<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uating false - hoods, and doth feare to intimate that the Body politick of this Kingdom, hath been rather wrong'd in the health thereof, then any way purg'd by the State Physitians of Parliament, being themselves corrupted with sini<g ref="char:EOLhyphen"/>ster respects as the foresaid Declaration falsly mentions.</p>
+            <p>But yet it may be objected what may be the reasons that move the King to keep such a distance from His Loving and Loyall Parliament, and to confide more in Evill Councellors at <hi>York,</hi> then in His great Coun<g ref="char:EOLhyphen"/>cell of Parliament at <hi>London;</hi> for a generall satisfacti<g ref="char:EOLhyphen"/>these reasons may be alledged.</p>
+            <p>First, His Majesties opposition against the Parlia<g ref="char:EOLhyphen"/>ment, and by a strong hand supporting and protecting Delinquents, so that orders of Parliament are not o<g ref="char:EOLhyphen"/>beyed but slighted and scorn'd, so that it is made but <hi>Imago Parliamenti,</hi> a meer shaddow; and this is one cause why the Kings Majesty and the Parliament have so long dissented and disagreed.</p>
+            <p>The second reason may be drawn from the feare and conscientious guiltinesse of some great Persons, who being doubtfull and timerous least the Parliament should discover their Machivilian intentions against the peace of the Kingdom, and secretly adhering to Pa<g ref="char:EOLhyphen"/>pists, do therefore strive to incense the King against the Parliament, and set the Kings Name and Preroga<g ref="char:EOLhyphen"/>tive in the Front of the Battell to defend their own bad causes, and keep them from that punishment which they have incurr'd by their demerits.</p>
+            <p>A third reason is because there is not that mutuall relation and confidence, which ought to be between them, for the <hi>medium</hi> or meane conjunctive being ta<g ref="char:EOLhyphen"/>ken
+<pb n="7" facs="tcp:124022:4"/> away, or frequently broken, or to speak plainly, when the King doth not love and respect His Parlia<g ref="char:EOLhyphen"/>ment, but is by Evill Councell wrought to oppose them, and to suffer them to be maligned with bitter In<g ref="char:EOLhyphen"/>vectives under his name in the forme of Doctors, it must needs consequently disanimate the Parliament, to see their love and loyalty rewarded with nothing but contempt and dislike; what son can shew any <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iliall</hi> duty if the father will not endure his fight but rejects him? what souldier can perform any remarkable service if their Captain do not esteem them as his friends, and confide in them as <hi>fidelious</hi> and true to their colours<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and how can the Parliament produce those good ef<g ref="char:EOLhyphen"/>fects which are expected, and accomplish those seri<g ref="char:EOLhyphen"/>ous services and businesses, wherewith their country had entrusted them, if so be that the King give no en<g ref="char:EOLhyphen"/>couragement to their consultations, but hath gathered force at <hi>York,</hi> under the pretence of a Guard to oppose the Parliament, and besiege <hi>Hull;</hi> so that while His Majesties love is alienated and withdrawn from His Parliament, and His actions speak contrary to His words, there must needs be jealousies and disagreement betwixt them.</p>
+            <p>A fourth Reason may be the constant and long con<g ref="char:EOLhyphen"/>tinued habit of disaffection; which being like unhappy seeds sow'd abroad among the common people, hath brought a mutinous faction in their distracted minde, some dividing their opinions for the King, and others for the Parliament; so that they have discours'd them<g ref="char:EOLhyphen"/>selves into a supposition and expectance of War, not as the Malignant party hopes to be reconciled; and this is a great reason why the Devil has brought in this
+<pb n="8" facs="tcp:124022:5"/> Sophistry, to disjoyn the King and Parliament, to the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubversion of this Kingdom, an effect of the evill Coun<g ref="char:EOLhyphen"/>cells now prevailing and rending to the dissolution of this Parliament, and the disturbance of the Kingdom, This Parliament the hope and preserver of the Prote<g ref="char:EOLhyphen"/>stant Religion, and of the good and welfare of three Kingdoms▪ The blows of friends are unkind, and therefore let us pray that God in these distracted times would change the Kings mind, in whose hands the hearts of Princes are as conformable as wax, and that he would give the Parliament his assistance, whose offence can be no other in the opinion of all true Subjects, but their Love and Loyallty to the Kings Majestie: For,</p>
+            <q>Regis ad examplum totis componitur vrbis.</q>
+            <q>
+               <lg>
+                  <l>If that the King be pleas'd Wars to make,</l>
+                  <l>Subjects by His example Arms must take.</l>
+               </lg>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124022:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
